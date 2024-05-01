@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>v2-4a1340ab382abdb2e3be11b0102f43a2_b.jpg</filename>
+	<path>E:\Python\Here_is_a_Loopy\data\v2-4a1340ab382abdb2e3be11b0102f43a2_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>825</ymin>
+			<xmax>552</xmax>
+			<ymax>1151</ymax>
+		</bndbox>
+	</object>
+</annotation>
